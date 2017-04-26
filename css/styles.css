@@ -1,0 +1,34 @@
+body {
+	width: 700px;
+	height: 500px;
+	margin: auto;
+}
+
+.fondo {
+	background-color: #3d77c0;
+	height: 500px;
+	width: 300px;
+	padding: 5% 10% 5% 10%;
+	margin: 0 auto 0 auto; 
+}
+.oscuro {
+	background-color: #0c1c3c;
+	height: 55%;  
+}
+.claro {
+	margin-top: 10px;
+	background-color: #3a65a5;
+	height: 19%;
+}
+.gris {
+	margin-top: 10px;
+	background-color: #bcccec;
+	height: 21%;
+}
+.cuadros {
+	-webkit-filter: blur(1px);
+  -moz-filter: blur(1px);
+  -o-filter: blur(1px);
+  -ms-filter: blur(1px);
+  filter: blur(1px);
+}
