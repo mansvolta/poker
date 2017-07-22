@@ -22,11 +22,12 @@ media
 	font-weight: 900;
 }
 .soon {
+	text-align: center;
+	width: 30%;
 	color: red;
 	font-size: 28px;
 	font-weight: 300;
 	text-decoration: none;
-	margin: 50px;
 }
 .footer {
 	width: 100%;
